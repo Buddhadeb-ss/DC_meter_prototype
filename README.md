@@ -16,6 +16,7 @@ Processing: The ESP32 reads this data 10 times every second.
 Multitasking: I programmed the ESP32 to do two things at once (Asynchronous programming):
 Update the OLED screen instantly so it doesn't lag.
 Upload the data to the cloud every few seconds so I can view it on my laptop
+UPDATE1: Now the device can send data online and this can be accessed by Blynk Application
 
 SCHEMATIC-
 <img width="975" height="462" alt="image" src="https://github.com/user-attachments/assets/2c73c0e5-b6f9-45d0-b441-1654bb756c7c" />
